@@ -8,41 +8,46 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
-    locale: "id-ID",
+    analytics: {
+      provider: "vercel",
+    },
+    locale: "en-US",
     baseUrl: "notes.yumana.my.id",
     ignorePatterns: ["private", "Templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cabin",
-        body: "Ubuntu",
+        header: {
+          name: "DM Serif Display",
+          weights: [400],
+        },
+        body: "Bricolage Grotesque",
         code: "Jetbrains Mono",
       },
       colors: {
         lightMode: {
-          light: COLORS.gruvbox.light0_hard, // BASE
-          lightgray: COLORS.gruvbox.light3, // SEARCH BOX
-          gray: COLORS.gruvbox.light4,
-          darkgray: COLORS.gruvbox.dark2, // TEXT
-          dark: COLORS.gruvbox.dark0,
-          secondary: COLORS.gruvbox.neutral_blue, // PAGE TITLE
-          tertiary: COLORS.gruvbox.bright_blue,
-          highlight: COLORS.gruvbox.bright_blue + "26", // WITH OPACITY - FOR TAG/LINK SHADING
-          textHighlight: COLORS.gruvbox.bright_yellow + "88", // YELLOW WITH OPACITY
+          light: COLORS.medieval.light0_hard,
+          lightgray: COLORS.medieval.light3,
+          gray: COLORS.medieval.light4,
+          darkgray: COLORS.medieval.dark2,
+          dark: COLORS.medieval.dark0,
+          secondary: COLORS.medieval.bright_blue,
+          tertiary: COLORS.medieval.bright_yellow,
+          highlight: COLORS.medieval.bright_blue + "26",
+          textHighlight: COLORS.medieval.bright_yellow + "66",
         },
         darkMode: {
-          light: COLORS.gruvbox.dark0, // BASE
-          lightgray: COLORS.gruvbox.dark2, // OVERLAY
-          gray: COLORS.gruvbox.dark4, // SURFACE2
-          darkgray: COLORS.gruvbox.light3, // TEXT
-          dark: COLORS.gruvbox.light0_soft, // HEADER TEXT
-          secondary: COLORS.gruvbox.faded_yellow, // FOR PAGE TITLE, MENU SECTIONS, BREADCRUMBS
-          tertiary: COLORS.gruvbox.bright_purple, // FOR LINK HOVER/ACTIVE
-          highlight: COLORS.gruvbox.bright_orange + "26", // WITH OPACITY - FOR TAG/LINK SHADING
-          textHighlight: COLORS.gruvbox.bright_yellow + "88", // YELLOW WITH OPACITY
+          light: COLORS.medieval.dark0,
+          lightgray: COLORS.medieval.dark2,
+          gray: COLORS.medieval.dark4,
+          darkgray: COLORS.medieval.light3,
+          dark: COLORS.medieval.light0_soft,
+          secondary: COLORS.medieval.bright_yellow,
+          tertiary: COLORS.medieval.bright_purple,
+          highlight: COLORS.medieval.bright_orange + "26",
+          textHighlight: COLORS.medieval.bright_yellow + "66",
         },
       },
     },

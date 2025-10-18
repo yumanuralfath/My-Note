@@ -1,39 +1,42 @@
 export const COLORS = {
-  gruvbox: {
-    dark0_hard: "#1d2021",
-    dark0: "#282828",
-    dark0_soft: "#32302f",
-    dark1: "#3c3836",
-    dark2: "#504945",
-    dark3: "#665c54",
-    dark4: "#7c6f64",
-    light0_hard: "#f9f5d7",
-    light0: "#fbf1c7",
-    light0_soft: "#f2e5bc",
-    light1: "#ebdbb2",
-    light2: "#d5c4a1",
-    light3: "#bdae93",
-    light4: "#a89984",
-    bright_red: "#fb4934",
-    bright_green: "#b8bb26",
-    bright_yellow: "#fabd2f",
-    bright_blue: "#83a598",
-    bright_purple: "#d3869b",
-    bright_aqua: "#8ec07c",
-    bright_orange: "#fe8019",
-    neutral_red: "#cc241d",
-    neutral_green: "#98971a",
-    neutral_yellow: "#d79921",
-    neutral_blue: "#458588",
-    neutral_purple: "#b16286",
-    neutral_aqua: "#689d6a",
-    neutral_orange: "#d65d0e",
-    faded_red: "#9d0006",
-    faded_green: "#79740e",
-    faded_yellow: "#b57614",
-    faded_blue: "#076678",
-    faded_purple: "#8f3f71",
-    faded_aqua: "#427b58",
-    faded_orange: "#af3a03",
+  medieval: {
+    // 🕯️ Light Mode — parchment, ink, and soft gold tones
+    light0_hard: "#f3efe2", // BASE - parchment
+    light0: "#e9e3d0", // softer parchment
+    light0_soft: "#e0dac7", // aged paper
+    light1: "#d6cdb4",
+    light2: "#c6b996",
+    light3: "#b0a484", // subtle brown-gray for UI outlines
+    light4: "#9b8d72",
+
+    dark0: "#2e2a26", // text - ink
+    dark1: "#3b3530", // heading text
+    dark2: "#50473f", // muted overlay
+    dark3: "#665c52", // for subtle contrasts
+    dark4: "#7a6e61", // softer gray-brown text
+
+    bright_red: "#9e2b25", // wax seal red
+    bright_green: "#6b8e23", // olive leaf green
+    bright_yellow: "#d4af37", // royal gold
+    bright_blue: "#3b5b8a", // faded navy blue
+    bright_purple: "#7c609c", // medieval violet
+    bright_aqua: "#6c8b7b", // moss teal
+    bright_orange: "#b77a2d", // bronze
+
+    neutral_red: "#7a1f1a",
+    neutral_green: "#5e7036",
+    neutral_yellow: "#b89628",
+    neutral_blue: "#2f4669",
+    neutral_purple: "#624b7c",
+    neutral_aqua: "#557366",
+    neutral_orange: "#946326",
+
+    faded_red: "#5c1915",
+    faded_green: "#495c2e",
+    faded_yellow: "#9c7e25",
+    faded_blue: "#2a3954",
+    faded_purple: "#544065",
+    faded_aqua: "#4a6156",
+    faded_orange: "#7a5020",
   },
 }
