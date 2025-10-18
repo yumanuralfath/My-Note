@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     locale: "id-ID",
     baseUrl: "yumanuralfath.github.io/My-Note", // Akan diubah saat setup custom domain
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
