@@ -10,7 +10,6 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/yumanuralfath",
       LinkedIn: "https://www.linkedin.com/in/yumana/",
-      Email: "mailto:yumanuralfath2@gmail.com",
     },
   }),
 }

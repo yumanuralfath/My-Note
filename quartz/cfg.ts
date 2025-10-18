@@ -47,9 +47,6 @@ export type Analytics =
       host: string
       siteId: string
     }
-  | {
-      provider: "vercel"
-    }
 
 export interface GlobalConfiguration {
   pageTitle: string
