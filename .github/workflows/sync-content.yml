@@ -2,11 +2,11 @@ name: Sync Obsidian Content
 
 on:
   schedule:
-    - cron: "0 0 * * 0"
-  workflow_dispatch: # Bisa trigger manual dari GitHub
+    - cron: "0 0 * * 0" # Setiap Minggu pukul 00:00 UTC
+  workflow_dispatch: # Bisa dijalankan manual dari GitHub Actions
   push:
     branches:
-      - main # Atau branch utama Anda
+      - main # Atau branch utama kamu
 
 permissions:
   contents: write
@@ -14,26 +14,24 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Quartz repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Perlu riwayat penuh agar bisa commit dengan benar
 
-      - name: Remove old content
-        run: |
-          rm -rf content/*
-          mkdir -p content
-
-      - name: Checkout Obsidian vault
+      - name: Checkout Obsidian vault (shallow clone, ambil commit terbaru)
         uses: actions/checkout@v4
         with:
           repository: yumanuralfath/Obsidian-Note
           path: temp-vault
+          fetch-depth: 1 # Hanya ambil 1 commit terakhir untuk efisiensi
 
-      - name: Copy Yuma Note to content
+      - name: Sync only changed files (pakai rsync)
         run: |
-          cp -r "temp-vault/Yuma Note/"* content/ || echo "Copy completed"
+          mkdir -p content
+          rsync -av --delete "temp-vault/Yuma Note/" content/
           rm -rf temp-vault
 
       - name: Commit and push if changed
@@ -42,7 +40,7 @@ jobs:
           git config user.email "actions@github.com"
           git add content
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "✅ No changes to commit"
           else
             git commit -m "🔄 Sync content from Obsidian vault [$(date '+%Y-%m-%d %H:%M:%S')]"
             git push
