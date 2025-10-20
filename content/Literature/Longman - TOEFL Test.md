@@ -4,8 +4,9 @@ author: Deborah Phillips
 year: "1996"
 tags:
   - grammar
+  - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-20T08:45
+updated: 2025-10-20T13:58
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -63,26 +64,75 @@ The following chart outlines what you should remember about present participles:
 ![[Pasted image 20251019195600.png]]
 
 ### Skill 5
+[[Be Careful of Past Participles]]
+
+[[Past Participles]] <b>verb III</b> of a verb, such and was) as <b>studied</b>, <b>taught</b>, <b>cooked</b> and many others. Past participles can cause confusion in structure questions on the TOEFL test because a past participle can be either <b>an adjective</b> or <b>a part of a verb</b>.
+
+<div style="text-align: justify;"><b>1. As a part of a verb.</b></div>
+Past participle functions as a part of a verb if it is accompanied by have, has, had and to be (am, is, are, were and was). _Example:_
+<div style="text-align: center;">The family has <b>purchased</b> a television.</div><div style="text-align: center;">&nbsp; VERB</div>
+
+
+<div style="text-align: center;">The poem was <b>written</b> by Paul.</div><div style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VERB</div>
+
+1. In the first sentence the past participle **purchased** is **part of the verb** because it is accompanied by has.
+2. In the second sentence the past participle **written** is **part of the verb** because it is accompanied by was.
+
+**2. As an [[Adjective]]**
+Past participle functions as an adjective if it is not accompanied by have, has, had and to be. Example:
+
+The television **purchased** (Adj) yesterday was expensive.
+The poem **written** (Adj) by Paul appeared in the magazine.
+
+- In the first sentence **purchased** is an **adjective** rather than a verb because it is not accompanied by a form of be or have (and there is a verb, was, later in the sentence). 
+- In the second sentence **written** is **an adjective** rather than a verb because it is not accompanied by a form of be or have (and there is a verb, appeared, later in the sentence).
+
+### Skill 6
+[[Use Coordinate Connectors Correctly]]
+
+When you have two clauses in an English sentences, you must connect the two sentences correctly. One way to connect two clauses is to use [AND, BUT, OR, SO, or YET](https://preparationtoefl.blogspot.com/2011/09/use-coordinate-connector-correctly.html) between the clauses. 
+
+_Look at the following sentences_:
+- Tom is singing, **and** Paul is dancing.
+- Tom is tall, **but** Paul is short.
+- Tom must write the letters, **or** Paul will do it.
+- Tom told a joke, **so** Paul laughed
+- Tom is tired, **yet** he is not going to sleep.
+
+In each of these sentences, there are two clauses that are correctly joined with a coordinate conjunction **AND, BUT, OR, SO** or **YET**, and a comma (,).
+
+
 
 
 ### 📘 Progress
-3 / 58
+4 / 58
 -  [[grammar]]
 	- Skill 1  [[Be Sure The Sentence Has A Subject And A verb]]
 	- Skill 2 [[Be careful of object of preposition]]
 	- Skill 3 [[Be Careful of Appositives]]
 	- Skill 4 [[Be Careful of Present Participle]]
+	- Skill 5 [[Be Careful of Past Participles]]
+	- [[Sentence With Multiple Clauses]]
+	- Skill 6 [[Use Coordinate Connectors Correctly]]
 ## 💡 Konsep Penting
--  [[Simple Present Tense]]
+- [[Simple Present Tense]]
 - [[Present Perfect Tense]]
 - [[frase nomina]]
 - [[Verb]]
+- [[noun]]
 - [[Subject]]
 - [[preposition]]
+- [[Appositive]]
+- [[Adjective]]
+- [[Past Participles]]
 
 ## 💪Exercise
 - [[Exercise Skill 1]]
 - [[Exercise Skill 2]]
 - [[Be Careful of Appositives#Exercise]]
+- [[Exercise Skill 4]]
+- [[Exercise Skill 5]]
+- [[Exercise 1-5]]
+- 
 
 ⌛Created 2025-10-18 18:24
