@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "notes.yumana.my.id",
     ignorePatterns: ["private", "Templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
