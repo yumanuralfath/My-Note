@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-20T20:15
+updated: 2025-10-21T14:25
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -24,7 +24,7 @@ updated: 2025-10-20T20:15
 	- Skill 7 [[Use Adverb Time and Cause Connectors Correctly]]
 	- Skill 8 [[Use Other Adverb Connectors Correctly]]
 	- Skill 9 [[Use noun clause connector correctly]]
-	- Skill 10 [[Use Noun Clause Connector/Subject Correctly]]
+	- Skill 10 [[Use Noun Clause Connector or Subject Correctly]]
 
 ## 🔍 Ringkasan
 ### Skill 2
@@ -191,9 +191,9 @@ In this example, there are two verbs (was and caused) and each verb needs SUBJEC
 So, the complete sentence is THAT HE WAS LATE CAUSED MANY PROBLEMS
 
 ### Skill 10 
-[[Use Noun Clause Connector/Subject Correctly]]
+[[Use Noun Clause Connector or Subject Correctly]]
 
-In skill 9, noun clause connectors were used to introduce noun subject clauses or noun object clauses.
+In skill 9, [[Noun Clause]] connectors were used to introduce noun subject clauses or noun object clauses.
 
 In this 10, a noun clause connector is not only a connector; a noun clause connector cam also be the subject of the clause at the same time.
 
@@ -237,7 +237,9 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[preposition]]
 - [[Appositive]]
 - [[Adjective]]
+- [[Adverb]]
 - [[Past Participles]]
+- [[Noun Clause]]
 
 ## 💪Exercise
 - [[Exercise Skill 1]]
@@ -247,5 +249,11 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[Exercise Skill 5]]
 - [[Exercise 1-5]]
 - [[Exercise Skill 6]] 
+- [[Exercise Skill 7]]
+- [[Exercise Skill 8]]
+- [[Exercise Skill 6 - 8]]
+- [[Exercise Skill 9]]
+- [[Exercise Skill 10]]
+
 
 ⌛Created 2025-10-18 18:24
