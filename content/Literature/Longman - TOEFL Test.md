@@ -6,13 +6,13 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-21T14:25
+updated: 2025-10-22T19:44
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
 
 ### 📘 Progress
-6 / 58
+11 / 58
 -  [[grammar]]
 	- Skill 1  [[Be Sure The Sentence Has A Subject And A verb]]
 	- Skill 2 [[Be careful of object of preposition]]
@@ -25,6 +25,11 @@ updated: 2025-10-21T14:25
 	- Skill 8 [[Use Other Adverb Connectors Correctly]]
 	- Skill 9 [[Use noun clause connector correctly]]
 	- Skill 10 [[Use Noun Clause Connector or Subject Correctly]]
+	- Skill 11 [[Use Adjective Clause Connectors Correctly]]
+	- Skill 12 [[Use Adjective Clause Connector Or Subject Correctly]]
+	- [[Sentence With Reduce Clauses]]
+	- Skill 13 [[Use Reduced Adjective Clause Correctly]]
+	- Skill 14 [[Use Reduced Adverb Clauses Correctly]]
 
 ## 🔍 Ringkasan
 ### Skill 2
@@ -219,10 +224,115 @@ D. When
   
 In the example above, there two VERBS, _**was**_ and _**made**_. Each of those verbs needs a _**Subject**_ . Best Answer is _**C (What)**_. _**What**_ is the subject of verb _**was**_ and the verb _**made**_. What also serves as the connector that connect the two clauses together.
 
+### Skill 11
+[[Use Adjective Clause Connectors Correctly]]
 
+![[Pasted image 20251022082422.png]]
+![[Pasted image 20251022082444.png]]
+![[Pasted image 20251022082507.png]]
 
+### Skill 12 
+[[Use Adjective Clause Connector Or Subject Correctly]]
+![[Pasted image 20251022093322.png]]
+![[Pasted image 20251022093425.png]]
+![[Pasted image 20251022093438.png]]
 
+### Skill 13 
+[[Use Reduced Adjective Clause Correctly]]
+Adjective clauses can appear in a reduced form. In the reduced form, the adjective clause connector and the be-verb that directly follow it are omitted. 
 
+The woman who is waving to us is the tour guide.  
+=> The woman waving to us is the tour guide.  (omit “who is”)  
+  
+The letter which was written last week arrived today. (omit “which was”)  
+=> The letter written last week arrived today. (omit “which was”)  
+  
+The pitcher on the table is full of iced tea. (omit “that is”)  
+=> The pitcher that is on the table is full of iced tea. (omit “that is”)  
+
+Each of these sentences may be used in the complete form or in the reduced form. In the reduced form the connector “who, which, or that” is omitted along with the be-verb “is” or “was”. 
+If there is no be-verb in the adjective clause, it is still possible to have a reduced form. 
+When there is no be-verb in the adjective clause, the connector is omitted and the verb is 
+changed into the -ing form. 
+
+- I don 't understand the article which appears in today's paper. 
+
+=> I don 't understand the article appearing in today's paper. (omit “which”, then change the verb into the -ing form)
+
+In this example there is no be-verb in the adjective clause which appears in today's paper, so the connector “which” is omitted and the main verb “appears” is changed to the -ing form “appearing”. 
+
+It should be noted that not all adjective clauses can appear in a reduced form. An adjective clause can appear in a reduced form only if the adjective clause connector is followed directly by a verb. In other words, an adjective clause can only be reduced if the connector is also a subject. 
+
+The woman that I just met is the tour guide. (does not reduce)  
+The letter which You sent me arrived yesterday.  (does not reduce)  
+
+In these two examples the adjective clauses cannot be reduced because the adjective clause connectors “that and which” are not directly followed by verbs; “that” is directly followed by the subject “I”, and “which” is directly followed by the subject “you”. 
+
+A final point to note is that some adjective clauses are set off from the rest of the sentence with commas, and these adjective clauses can also be reduced. In addition, when an adjective clause is set off with commas, the reduced adjective clause can appear at the front of the sentence. 
+
+The White House, which is located in Washington, is the home of the president.  
+The White House, located in Washington, is the home of the president.  
+Located in Washington, the White House is the home of the president.  
+  
+The president, who is now Preparing to give a speech, is meeting with his advisors.  
+The president, now preparing to give a speech, is meeting with his advisors.  
+Now preparing to give a speech, the president is meeting with his advisors.  
+
+In these two examples, the adjective clauses are set off from the rest of the sentence with commas, so each sentence can be structured in three different ways: (1) with the complete clause, (2) with the reduced clause following the noun that it describes, and (3) with the reduced clause at the beginning of the sentence.
+
+Example:    
+_____ on several different television programs, the witness gave conflicting accounts of what had happened.  
+(A) He appeared  
+(B) Who appeared  
+(C) Appearing  
+(D) Appears  
+  
+
+In this example, answer (A) is incorrect because there are two clauses, “He appeared… and the witness gave...”, and there is no connector to join them. Answer (B) is incorrect because an adjective clause such as “who appeared…” cannot appear at the beginning of a sentence (unless it is in a reduced form). Answer (C) is the correct answer because it is the reduced form of the clause “who appeared”, and this reduced form can appear at the front of the sentence. Answer (D) is not the reduced form of a verb; it is merely a verb in the present tense; a verb such as “appears” needs a subject and a connector to be correct.
+
+### Skill 14 
+[[Use Reduced Adverb Clauses Correctly]]
+
+Tentu. Skill 14 ini mirip dengan Skill 13, tujuannya sama-sama mempersingkat kalimat. Bedanya, ini untuk _adverb clause_ (klausa keterangan waktu, alasan, kontras, dll).
+Berikut adalah poin-poin sederhananya berdasarkan materi buku Anda.
+### Poin 1: Syarat Utama (Wajib!)
+Anda **hanya** bisa menyingkat (reduce) _adverb clause_ jika **Subjek** di klausa itu **SAMA** dengan **Subjek** di kalimat utama.
+- Contoh: `When **you** are ready, **you** can begin your speech.`
+    - Subjeknya sama-sama `you`, jadi ini BISA disingkat.
+    
+### Poin 2: Konektornya TETAP ADA
+Ini perbedaan besar dari Skill 13. Konektor seperti `Although`, `When`, `While`, `If`, `After`, `Before` **TIDAK DIHAPUS**.
+
+### Poin 3: Aturan Singkat #1 (Jika ada 'be-verb')
+Jika di dalam klausa ada `be-verb` (seperti `is`, `are`, `was`, `were`):
+- **Cara:** Buang Subjek + Buang `be-verb` nya.
+    - **Contoh:**
+    - Lengkap: `Although **he is** rather unwell, the speaker will take part...`    
+    - Singkat: `Although rather unwell, the speaker will take part...`
+- **Contoh:**
+    - Lengkap: `When **you are** ready, you can begin your speech.`
+    - Singkat: `When ready, you can begin your speech.`
+### Poin 4: Aturan Singkat #2 (Jika TIDAK ada 'be-verb')
+Jika di dalam klausa adanya kata kerja biasa (seperti `feels`, `give`, `studies`):
+- **Cara:** Buang Subjek + Ubah kata kerjanya ke bentuk **-ING**.
+- **Contoh:**
+    - Lengkap: `Although **he feels** rather sick, the speaker will take part...`
+    - Singkat: `Although **feeling** rather sick, the speaker will take part...`
+- **Contoh:**
+    - Lengkap: `When **you give** your speech, you should speak loudly...`
+    - Singkat: `When **giving** your speech, you should speak loudly...`
+### Poin 5: Aturan Khusus (Pasif & Pengecualian)
+Ini adalah jebakan utamanya.
+1. **Jika Pasif:** Kalimat pasif (seperti `it is submitted`) mengikuti **Aturan #1** (buang subjek + buang 'be-verb').
+    - Lengkap: `Once **it is** submitted, your thesis will be reviewed.`
+    - Singkat: `Once **submitted**, your thesis will be reviewed.`
+    - Contoh soal di buku Anda (`When ____, you are free to leave`) juga pasif: `When **(you are) finished**...`
+        
+2. **Pengecualian:** Beberapa konektor (seperti `once`, `if`, `until`) **hanya** bisa disingkat jika kalimatnya pasif (seperti `Once submitted...`). Mereka **tidak bisa** disingkat jika kalimatnya aktif.
+    - `Once **you submit**...` (Aktif) -> **TIDAK BISA** disingkat menjadi `Once submitting...` ❌
+    - `Once **it is** submitted...` (Pasif) -> **BISA** disingkat menjadi `Once submitted...` ✔️
+
+### Skill 15
 
 
 
@@ -240,6 +350,7 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[Adverb]]
 - [[Past Participles]]
 - [[Noun Clause]]
+- [[Sentence With Reduce Clauses]]
 
 ## 💪Exercise
 - [[Exercise Skill 1]]
@@ -254,6 +365,10 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[Exercise Skill 6 - 8]]
 - [[Exercise Skill 9]]
 - [[Exercise Skill 10]]
-
+- [[Exercise Skill 11]]
+- [[Exercise Skill 12]]
+- [[Exercise Skill 9 - 12]]
+- [[Exercise Skill 13]]
+- [[Exercise Skill 14]]
 
 ⌛Created 2025-10-18 18:24
