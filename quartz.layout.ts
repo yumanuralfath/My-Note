@@ -5,7 +5,7 @@ import { SimpleSlug } from "./quartz/util/path"
 const recentNotes = [
   Component.RecentNotes({
     title: "Recent Note",
-    limit: 2,
+    limit: 3,
     filter: (f) => f.slug!.startsWith("Zettelkasten/"),
     linkToMore: "Zettelkasten/" as SimpleSlug,
   }),
@@ -15,12 +15,12 @@ const recentNotes = [
     filter: (f) => f.slug!.startsWith("Daily/"),
     linkToMore: "Daily/" as SimpleSlug,
   }),
-  Component.RecentNotes({
-    title: "Recent Literature",
-    limit: 1,
-    filter: (f) => f.slug!.startsWith("Literature/"),
-    linkToMore: "Literature/" as SimpleSlug,
-  }),
+  // Component.RecentNotes({
+  //   title: "Recent Literature",
+  //   limit: 1,
+  //   filter: (f) => f.slug!.startsWith("Literature/"),
+  //   linkToMore: "Literature/" as SimpleSlug,
+  // }),
 ]
 
 // components shared across all pages
