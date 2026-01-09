@@ -6,6 +6,7 @@ tags:
   - Daily
 ---
 # ⚡ Priority
+
 - [ ] <% tp.file.cursor() %>
 - [ ] Belajar Bahasa
 - [ ] Latih *logic* dengan programming
@@ -15,7 +16,16 @@ tags:
 
 # 📝 Note
 
+## Morning ⛅
 
+
+## Noon 🔅
+
+
+## Afternoon 🏙️
+
+
+## Night 🌃
 
 
 
